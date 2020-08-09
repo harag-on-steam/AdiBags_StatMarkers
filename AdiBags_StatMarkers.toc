@@ -1,0 +1,9 @@
+## Interface: 80300
+
+## Title: AdiBags Stat Markers
+## Notes: Adds colored text markers to indicate the secondary stats on an item.
+## Author: Harag
+## Version: 1.0
+## Dependencies: AdiBags
+
+StatMarkers.lua
